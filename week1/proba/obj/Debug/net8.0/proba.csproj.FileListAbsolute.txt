@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\bin\Debug\net8.0\proba.exe
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\bin\Debug\net8.0\proba.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\bin\Debug\net8.0\proba.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\bin\Debug\net8.0\proba.dll
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\bin\Debug\net8.0\proba.pdb
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\proba.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\proba.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\proba.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\proba.dll
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\refint\proba.dll
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\proba.pdb
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\proba.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\proba\proba\obj\Debug\net8.0\ref\proba.dll
