@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week1-exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7767B5E8-D824-4F83-ADCA-6BB40D9BA2AF}|basketballEquipment\\basketballEquipment.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week1-exercise\\basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767B5E8-D824-4F83-ADCA-6BB40D9BA2AF}|basketballEquipment\\basketballEquipment.csproj|solutionrelative:basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC24F1F-2476-47D7-93DF-B7E71FBBCDED}|DepositCalculator\\DepositCalculator.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week1-exercise\\depositcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC24F1F-2476-47D7-93DF-B7E71FBBCDED}|DepositCalculator\\DepositCalculator.csproj|solutionrelative:depositcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576A2839-AAEB-4BA5-BA90-7A26039D027A}|week1-exercise\\week1-exercise.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week1-exercise\\week1-exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576A2839-AAEB-4BA5-BA90-7A26039D027A}|week1-exercise\\week1-exercise.csproj|solutionrelative:week1-exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week1-exercise\\DepositCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "DepositCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week1-exercise\\DepositCalculator\\Program.cs",
+              "RelativeToolTip": "DepositCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:38:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week1-exercise\\basketballEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "basketballEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week1-exercise\\basketballEquipment\\Program.cs",
+              "RelativeToolTip": "basketballEquipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:37:39.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week1-exercise\\week1-exercise\\Program.cs",
+              "RelativeDocumentMoniker": "week1-exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week1-exercise\\week1-exercise\\Program.cs",
+              "RelativeToolTip": "week1-exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:34:09.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

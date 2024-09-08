@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\bin\Debug\net8.0\Literature.exe
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\bin\Debug\net8.0\Literature.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\bin\Debug\net8.0\Literature.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\bin\Debug\net8.0\Literature.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\bin\Debug\net8.0\Literature.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\Literature.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\Literature.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\Literature.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\Literature.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\refint\Literature.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\Literature.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\Literature.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\Literature\obj\Debug\net8.0\ref\Literature.dll

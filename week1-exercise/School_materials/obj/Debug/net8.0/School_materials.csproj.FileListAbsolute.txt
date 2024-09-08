@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\bin\Debug\net8.0\School_materials.exe
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\bin\Debug\net8.0\School_materials.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\bin\Debug\net8.0\School_materials.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\bin\Debug\net8.0\School_materials.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\bin\Debug\net8.0\School_materials.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\School_materials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\School_materials.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\School_materials.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\School_materials.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\School_materials.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\refint\School_materials.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\School_materials.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\School_materials.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\School_materials\obj\Debug\net8.0\ref\School_materials.dll

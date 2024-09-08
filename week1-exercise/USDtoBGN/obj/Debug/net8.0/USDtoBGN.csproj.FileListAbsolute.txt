@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\bin\Debug\net8.0\USDtoBGN.exe
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\bin\Debug\net8.0\USDtoBGN.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\bin\Debug\net8.0\USDtoBGN.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\bin\Debug\net8.0\USDtoBGN.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\bin\Debug\net8.0\USDtoBGN.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\USDtoBGN.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\USDtoBGN.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\refint\USDtoBGN.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\USDtoBGN.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\USDtoBGN.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1\USDtoBGN\obj\Debug\net8.0\ref\USDtoBGN.dll
