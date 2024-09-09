@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.exe
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\refint\CelsiusToFahrenheit.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\CelsiusToFahrenheit\obj\Debug\net8.0\ref\CelsiusToFahrenheit.dll

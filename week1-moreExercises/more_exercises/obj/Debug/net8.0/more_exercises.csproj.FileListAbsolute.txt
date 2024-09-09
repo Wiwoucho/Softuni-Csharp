@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\bin\Debug\net8.0\more_exercises.exe
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\bin\Debug\net8.0\more_exercises.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\bin\Debug\net8.0\more_exercises.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\bin\Debug\net8.0\more_exercises.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\bin\Debug\net8.0\more_exercises.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\more_exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\more_exercises.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\more_exercises.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\more_exercises.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\more_exercises.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\refint\more_exercises.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\more_exercises.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\more_exercises.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\more_exercises\obj\Debug\net8.0\ref\more_exercises.dll
