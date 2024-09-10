@@ -1,0 +1,15 @@
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\bin\Debug\net8.0\house_painting.exe
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\bin\Debug\net8.0\house_painting.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\bin\Debug\net8.0\house_painting.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\bin\Debug\net8.0\house_painting.dll
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\bin\Debug\net8.0\house_painting.pdb
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\house_painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\house_painting.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\house_painting.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\house_painting.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\house_painting.sourcelink.json
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\house_painting.dll
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\refint\house_painting.dll
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\house_painting.pdb
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\house_painting.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\testfolderforcredentials\Csharp-Basics\week1-moreExercises\house_painting\obj\Debug\net8.0\ref\house_painting.dll
