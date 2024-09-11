@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "perimeter_and_area_of_a_circle/1.0.0": {
+        "runtime": {
+          "perimeter_and_area_of_a_circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "perimeter_and_area_of_a_circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

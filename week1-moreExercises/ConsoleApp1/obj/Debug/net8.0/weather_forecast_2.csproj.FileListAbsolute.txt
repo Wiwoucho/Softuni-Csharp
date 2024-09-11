@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\bin\Debug\net8.0\weather_forecast_2.exe
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\bin\Debug\net8.0\weather_forecast_2.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\bin\Debug\net8.0\weather_forecast_2.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\bin\Debug\net8.0\weather_forecast_2.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\bin\Debug\net8.0\weather_forecast_2.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\weather_forecast_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\weather_forecast_2.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\weather_forecast_2.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\weather_forecast_2.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\weather_forecast_2.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\refint\weather_forecast_2.dll
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\weather_forecast_2.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\weather_forecast_2.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week1-MoreExercises\more_exercises\ConsoleApp1\obj\Debug\net8.0\ref\weather_forecast_2.dll
