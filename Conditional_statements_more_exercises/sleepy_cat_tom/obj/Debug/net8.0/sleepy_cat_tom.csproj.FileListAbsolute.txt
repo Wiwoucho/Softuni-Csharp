@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\bin\Debug\net8.0\sleepy_cat_tom.exe
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\bin\Debug\net8.0\sleepy_cat_tom.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\bin\Debug\net8.0\sleepy_cat_tom.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\bin\Debug\net8.0\sleepy_cat_tom.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\bin\Debug\net8.0\sleepy_cat_tom.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\sleepy_cat_tom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\sleepy_cat_tom.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\sleepy_cat_tom.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\sleepy_cat_tom.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\sleepy_cat_tom.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\refint\sleepy_cat_tom.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\sleepy_cat_tom.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\sleepy_cat_tom.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\sleepy_cat_tom\obj\Debug\net8.0\ref\sleepy_cat_tom.dll

@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\bin\Debug\net8.0\pipes_in_the_pool.exe
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\bin\Debug\net8.0\pipes_in_the_pool.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\bin\Debug\net8.0\pipes_in_the_pool.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\bin\Debug\net8.0\pipes_in_the_pool.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\bin\Debug\net8.0\pipes_in_the_pool.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\pipes_in_the_pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\pipes_in_the_pool.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\pipes_in_the_pool.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\pipes_in_the_pool.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\pipes_in_the_pool.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\refint\pipes_in_the_pool.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\pipes_in_the_pool.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\pipes_in_the_pool.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Conditional_statements_more_exercises\obj\Debug\net8.0\ref\pipes_in_the_pool.dll

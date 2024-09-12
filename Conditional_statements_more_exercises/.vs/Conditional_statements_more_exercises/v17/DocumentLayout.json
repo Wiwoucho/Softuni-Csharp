@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\Conditional_statements_more_exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94751C-9683-45F7-9553-1488A571216D}|sleepy_cat_tom\\sleepy_cat_tom.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\conditional_statements_more_exercises\\sleepy_cat_tom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94751C-9683-45F7-9553-1488A571216D}|sleepy_cat_tom\\sleepy_cat_tom.csproj|solutionrelative:sleepy_cat_tom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219314A2-4DFD-47B0-AB8C-AB90329E60B2}|Conditional_statements_more_exercises\\Conditional_statements_more_exercises.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\conditional_statements_more_exercises\\conditional_statements_more_exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219314A2-4DFD-47B0-AB8C-AB90329E60B2}|Conditional_statements_more_exercises\\Conditional_statements_more_exercises.csproj|solutionrelative:conditional_statements_more_exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\Conditional_statements_more_exercises\\sleepy_cat_tom\\Program.cs",
+              "RelativeDocumentMoniker": "sleepy_cat_tom\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\Conditional_statements_more_exercises\\sleepy_cat_tom\\Program.cs*",
+              "RelativeToolTip": "sleepy_cat_tom\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:06:49.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\Conditional_statements_more_exercises\\Conditional_statements_more_exercises\\Program.cs",
+              "RelativeDocumentMoniker": "Conditional_statements_more_exercises\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\Conditional_statements_more_exercises\\Conditional_statements_more_exercises\\Program.cs",
+              "RelativeToolTip": "Conditional_statements_more_exercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:43:07.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

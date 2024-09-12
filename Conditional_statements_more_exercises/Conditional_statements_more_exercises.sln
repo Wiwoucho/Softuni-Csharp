@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipes_in_the_pool", "Conditional_statements_more_exercises\pipes_in_the_pool.csproj", "{219314A2-4DFD-47B0-AB8C-AB90329E60B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sleepy_cat_tom", "sleepy_cat_tom\sleepy_cat_tom.csproj", "{EC94751C-9683-45F7-9553-1488A571216D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219314A2-4DFD-47B0-AB8C-AB90329E60B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219314A2-4DFD-47B0-AB8C-AB90329E60B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219314A2-4DFD-47B0-AB8C-AB90329E60B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219314A2-4DFD-47B0-AB8C-AB90329E60B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC94751C-9683-45F7-9553-1488A571216D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC94751C-9683-45F7-9553-1488A571216D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC94751C-9683-45F7-9553-1488A571216D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC94751C-9683-45F7-9553-1488A571216D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D397B4C2-B716-461E-AC8F-1EA942DE845D}
+	EndGlobalSection
+EndGlobal
