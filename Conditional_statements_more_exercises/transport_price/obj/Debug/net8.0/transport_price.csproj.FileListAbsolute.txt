@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\bin\Debug\net8.0\transport_price.exe
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\bin\Debug\net8.0\transport_price.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\bin\Debug\net8.0\transport_price.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\bin\Debug\net8.0\transport_price.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\bin\Debug\net8.0\transport_price.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\transport_price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\transport_price.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\transport_price.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\transport_price.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\transport_price.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\refint\transport_price.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\transport_price.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\transport_price.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\transport_price\obj\Debug\net8.0\ref\transport_price.dll

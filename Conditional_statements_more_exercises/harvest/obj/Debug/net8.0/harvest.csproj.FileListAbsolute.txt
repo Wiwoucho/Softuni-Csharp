@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\bin\Debug\net8.0\harvest.exe
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\bin\Debug\net8.0\harvest.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\bin\Debug\net8.0\harvest.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\bin\Debug\net8.0\harvest.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\bin\Debug\net8.0\harvest.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\harvest.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\harvest.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\harvest.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\harvest.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\refint\harvest.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\harvest.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\harvest.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\harvest\obj\Debug\net8.0\ref\harvest.dll
