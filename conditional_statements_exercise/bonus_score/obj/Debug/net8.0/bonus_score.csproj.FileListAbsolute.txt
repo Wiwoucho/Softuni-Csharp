@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\bin\Debug\net8.0\bonus_score.exe
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\bin\Debug\net8.0\bonus_score.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\bin\Debug\net8.0\bonus_score.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\bin\Debug\net8.0\bonus_score.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\bin\Debug\net8.0\bonus_score.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\bonus_score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\bonus_score.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\bonus_score.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\bonus_score.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\bonus_score.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\refint\bonus_score.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\bonus_score.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\bonus_score.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\bonus_score\obj\Debug\net8.0\ref\bonus_score.dll

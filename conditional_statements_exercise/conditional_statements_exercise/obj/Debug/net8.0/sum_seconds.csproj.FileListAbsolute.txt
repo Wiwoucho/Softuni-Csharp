@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\bin\Debug\net8.0\sum_seconds.exe
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\bin\Debug\net8.0\sum_seconds.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\bin\Debug\net8.0\sum_seconds.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\bin\Debug\net8.0\sum_seconds.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\bin\Debug\net8.0\sum_seconds.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\sum_seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\sum_seconds.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\sum_seconds.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\sum_seconds.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\sum_seconds.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\refint\sum_seconds.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\sum_seconds.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\sum_seconds.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\conditional_statements_exercise\obj\Debug\net8.0\ref\sum_seconds.dll
