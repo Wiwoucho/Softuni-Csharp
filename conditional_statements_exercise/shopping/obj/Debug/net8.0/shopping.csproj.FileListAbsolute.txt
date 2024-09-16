@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\bin\Debug\net8.0\shopping.exe
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\bin\Debug\net8.0\shopping.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\bin\Debug\net8.0\shopping.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\bin\Debug\net8.0\shopping.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\bin\Debug\net8.0\shopping.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\shopping.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\shopping.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\shopping.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\shopping.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\refint\shopping.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\shopping.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\shopping.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\shopping\obj\Debug\net8.0\ref\shopping.dll

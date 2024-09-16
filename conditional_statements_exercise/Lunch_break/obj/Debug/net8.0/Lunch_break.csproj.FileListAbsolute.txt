@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\bin\Debug\net8.0\Lunch_break.exe
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\bin\Debug\net8.0\Lunch_break.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\bin\Debug\net8.0\Lunch_break.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\bin\Debug\net8.0\Lunch_break.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\bin\Debug\net8.0\Lunch_break.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\Lunch_break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\Lunch_break.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\Lunch_break.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\Lunch_break.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\Lunch_break.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\refint\Lunch_break.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\Lunch_break.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\Lunch_break.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\Lunch_break\obj\Debug\net8.0\ref\Lunch_break.dll

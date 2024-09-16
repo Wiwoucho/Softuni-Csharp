@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\bin\Debug\net8.0\world_swimming_record.exe
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\bin\Debug\net8.0\world_swimming_record.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\bin\Debug\net8.0\world_swimming_record.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\bin\Debug\net8.0\world_swimming_record.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\bin\Debug\net8.0\world_swimming_record.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\world_swimming_record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\world_swimming_record.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\world_swimming_record.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\world_swimming_record.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\world_swimming_record.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\refint\world_swimming_record.dll
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\world_swimming_record.pdb
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\world_swimming_record.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\conditional_statements_exercise\world_swimming_record\obj\Debug\net8.0\ref\world_swimming_record.dll
