@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\bin\Debug\net8.0\Pets.exe
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\bin\Debug\net8.0\Pets.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\bin\Debug\net8.0\Pets.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\bin\Debug\net8.0\Pets.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\bin\Debug\net8.0\Pets.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\Pets.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\Pets.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\Pets.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\Pets.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\refint\Pets.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\Pets.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\Pets.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Pets\obj\Debug\net8.0\ref\Pets.dll
