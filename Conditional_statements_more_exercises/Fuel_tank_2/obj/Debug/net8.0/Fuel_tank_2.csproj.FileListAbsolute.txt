@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\bin\Debug\net8.0\Fuel_tank_2.exe
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\bin\Debug\net8.0\Fuel_tank_2.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\bin\Debug\net8.0\Fuel_tank_2.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\bin\Debug\net8.0\Fuel_tank_2.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\bin\Debug\net8.0\Fuel_tank_2.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\Fuel_tank_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\Fuel_tank_2.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\Fuel_tank_2.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\Fuel_tank_2.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\Fuel_tank_2.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\refint\Fuel_tank_2.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\Fuel_tank_2.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\Fuel_tank_2.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\Fuel_tank_2\obj\Debug\net8.0\ref\Fuel_tank_2.dll

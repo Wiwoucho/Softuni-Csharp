@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\bin\Debug\net8.0\flower_shop.exe
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\bin\Debug\net8.0\flower_shop.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\bin\Debug\net8.0\flower_shop.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\bin\Debug\net8.0\flower_shop.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\bin\Debug\net8.0\flower_shop.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\flower_shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\flower_shop.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\flower_shop.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\flower_shop.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\flower_shop.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\refint\flower_shop.dll
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\flower_shop.pdb
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\flower_shop.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\Conditional_statements_more_exercises\flower_shop\obj\Debug\net8.0\ref\flower_shop.dll
