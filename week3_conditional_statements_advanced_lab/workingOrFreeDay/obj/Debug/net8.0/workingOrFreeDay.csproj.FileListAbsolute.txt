@@ -1,0 +1,14 @@
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\bin\Debug\net8.0\workingOrFreeDay.exe
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\bin\Debug\net8.0\workingOrFreeDay.deps.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\bin\Debug\net8.0\workingOrFreeDay.runtimeconfig.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\bin\Debug\net8.0\workingOrFreeDay.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\bin\Debug\net8.0\workingOrFreeDay.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\workingOrFreeDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\workingOrFreeDay.AssemblyInfoInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\workingOrFreeDay.AssemblyInfo.cs
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\workingOrFreeDay.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\workingOrFreeDay.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\refint\workingOrFreeDay.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\workingOrFreeDay.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\workingOrFreeDay.genruntimeconfig.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingOrFreeDay\obj\Debug\net8.0\ref\workingOrFreeDay.dll

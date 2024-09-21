@@ -1,0 +1,14 @@
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\bin\Debug\net8.0\FruitShop.exe
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\bin\Debug\net8.0\FruitShop.deps.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\bin\Debug\net8.0\FruitShop.runtimeconfig.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\bin\Debug\net8.0\FruitShop.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\bin\Debug\net8.0\FruitShop.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\FruitShop.AssemblyInfoInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\FruitShop.AssemblyInfo.cs
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\FruitShop.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\refint\FruitShop.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\FruitShop.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\FruitShop.genruntimeconfig.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitShop\obj\Debug\net8.0\ref\FruitShop.dll

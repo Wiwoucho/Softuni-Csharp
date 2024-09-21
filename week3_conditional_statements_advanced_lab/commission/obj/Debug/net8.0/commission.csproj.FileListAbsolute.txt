@@ -1,0 +1,14 @@
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\bin\Debug\net8.0\commission.exe
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\bin\Debug\net8.0\commission.deps.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\bin\Debug\net8.0\commission.runtimeconfig.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\bin\Debug\net8.0\commission.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\bin\Debug\net8.0\commission.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\commission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\commission.AssemblyInfoInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\commission.AssemblyInfo.cs
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\commission.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\commission.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\refint\commission.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\commission.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\commission.genruntimeconfig.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\commission\obj\Debug\net8.0\ref\commission.dll

@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{337669D3-9217-4254-930C-CA9E3EC1C6E4}|commission\\commission.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\commission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337669D3-9217-4254-930C-CA9E3EC1C6E4}|commission\\commission.csproj|solutionrelative:commission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C6739D-8FE7-42A4-8A5A-1FDEFA858443}|FruitShop\\FruitShop.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C6739D-8FE7-42A4-8A5A-1FDEFA858443}|FruitShop\\FruitShop.csproj|solutionrelative:fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDE2C17-2174-496F-B186-506194C5A236}|InvalidNumber\\InvalidNumber.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDE2C17-2174-496F-B186-506194C5A236}|InvalidNumber\\InvalidNumber.csproj|solutionrelative:invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075A78E-090B-490C-A292-BA73A34299CF}|FruitOrVegetable\\FruitOrVegetable.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3075A78E-090B-490C-A292-BA73A34299CF}|FruitOrVegetable\\FruitOrVegetable.csproj|solutionrelative:fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055152A9-8A35-4666-97D0-3581F8F74C2F}|CinemaTickets\\CinemaTickets.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\cinematickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055152A9-8A35-4666-97D0-3581F8F74C2F}|CinemaTickets\\CinemaTickets.csproj|solutionrelative:cinematickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AF93C4-690E-476A-926E-53B3E225BD6F}|workingHours\\workingHours.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AF93C4-690E-476A-926E-53B3E225BD6F}|workingHours\\workingHours.csproj|solutionrelative:workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D65F5AE-95F9-4085-A5F7-ADEA2A7A7E88}|dayOfTheWeek\\dayOfTheWeek.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\dayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D65F5AE-95F9-4085-A5F7-ADEA2A7A7E88}|dayOfTheWeek\\dayOfTheWeek.csproj|solutionrelative:dayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D65F5AE-95F9-4085-A5F7-ADEA2A7A7E88}|dayOfTheWeek\\dayOfTheWeek.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\dayoftheweek\\dayoftheweek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D65F5AE-95F9-4085-A5F7-ADEA2A7A7E88}|dayOfTheWeek\\dayOfTheWeek.csproj|solutionrelative:dayoftheweek\\dayoftheweek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3DACC-4501-499A-B2B6-48EF79B1F795}|numbers_in_range\\numbers_in_range.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\numbers_in_range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E3DACC-4501-499A-B2B6-48EF79B1F795}|numbers_in_range\\numbers_in_range.csproj|solutionrelative:numbers_in_range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033300DC-62FA-4302-A81F-B429D08ABA2A}|smallShop\\smallShop.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033300DC-62FA-4302-A81F-B429D08ABA2A}|smallShop\\smallShop.csproj|solutionrelative:smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4102D4AA-00B5-4AB2-A15E-A1D3A71CF4C0}|MaleOrFemale\\MaleOrFemale.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\maleorfemale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4102D4AA-00B5-4AB2-A15E-A1D3A71CF4C0}|MaleOrFemale\\MaleOrFemale.csproj|solutionrelative:maleorfemale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B7FFF-BF2E-49B0-93D9-C5F44A3FAB1C}|workingOrFreeDay\\workingOrFreeDay.csproj|c:\\users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\workingorfreeday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B7FFF-BF2E-49B0-93D9-C5F44A3FAB1C}|workingOrFreeDay\\workingOrFreeDay.csproj|solutionrelative:workingorfreeday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\commission\\Program.cs",
+              "RelativeDocumentMoniker": "commission\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\commission\\Program.cs",
+              "RelativeToolTip": "commission\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:43:06.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\FruitShop\\Program.cs",
+              "RelativeDocumentMoniker": "FruitShop\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\FruitShop\\Program.cs",
+              "RelativeToolTip": "FruitShop\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:22:47.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\InvalidNumber\\Program.cs",
+              "RelativeDocumentMoniker": "InvalidNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\InvalidNumber\\Program.cs",
+              "RelativeToolTip": "InvalidNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:04:03.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\FruitOrVegetable\\Program.cs",
+              "RelativeDocumentMoniker": "FruitOrVegetable\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\FruitOrVegetable\\Program.cs",
+              "RelativeToolTip": "FruitOrVegetable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:59:16.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\CinemaTickets\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaTickets\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\CinemaTickets\\Program.cs",
+              "RelativeToolTip": "CinemaTickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:52:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dayOfTheWeek.csproj",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\dayOfTheWeek\\dayOfTheWeek.csproj",
+              "RelativeDocumentMoniker": "dayOfTheWeek\\dayOfTheWeek.csproj",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\dayOfTheWeek\\dayOfTheWeek.csproj",
+              "RelativeToolTip": "dayOfTheWeek\\dayOfTheWeek.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T16:48:06.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\workingHours\\Program.cs",
+              "RelativeDocumentMoniker": "workingHours\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\workingHours\\Program.cs",
+              "RelativeToolTip": "workingHours\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:46:37.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\numbers_in_range\\Program.cs",
+              "RelativeDocumentMoniker": "numbers_in_range\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\numbers_in_range\\Program.cs",
+              "RelativeToolTip": "numbers_in_range\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:39.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\smallShop\\Program.cs",
+              "RelativeDocumentMoniker": "smallShop\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\smallShop\\Program.cs",
+              "RelativeToolTip": "smallShop\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:08:35.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\MaleOrFemale\\Program.cs",
+              "RelativeDocumentMoniker": "MaleOrFemale\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\MaleOrFemale\\Program.cs",
+              "RelativeToolTip": "MaleOrFemale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:01:59.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\workingOrFreeDay\\Program.cs",
+              "RelativeDocumentMoniker": "workingOrFreeDay\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\workingOrFreeDay\\Program.cs",
+              "RelativeToolTip": "workingOrFreeDay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:38:26.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\dayOfTheWeek\\Program.cs",
+              "RelativeDocumentMoniker": "dayOfTheWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\source\\repos\\week3_conditional_statements_advanced_lab\\dayOfTheWeek\\Program.cs",
+              "RelativeToolTip": "dayOfTheWeek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:37:08.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.exe
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.deps.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.runtimeconfig.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.AssemblyInfo.cs
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\refint\FruitOrVegetable.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.genruntimeconfig.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\FruitOrVegetable\obj\Debug\net8.0\ref\FruitOrVegetable.dll

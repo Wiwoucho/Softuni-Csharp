@@ -1,0 +1,14 @@
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\bin\Debug\net8.0\numbers_in_range.exe
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\bin\Debug\net8.0\numbers_in_range.deps.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\bin\Debug\net8.0\numbers_in_range.runtimeconfig.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\bin\Debug\net8.0\numbers_in_range.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\bin\Debug\net8.0\numbers_in_range.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\numbers_in_range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\numbers_in_range.AssemblyInfoInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\numbers_in_range.AssemblyInfo.cs
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\numbers_in_range.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\numbers_in_range.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\refint\numbers_in_range.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\numbers_in_range.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\numbers_in_range.genruntimeconfig.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\numbers_in_range\obj\Debug\net8.0\ref\numbers_in_range.dll

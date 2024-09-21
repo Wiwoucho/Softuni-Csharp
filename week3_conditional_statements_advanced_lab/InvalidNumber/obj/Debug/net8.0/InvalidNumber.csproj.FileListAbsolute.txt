@@ -1,0 +1,14 @@
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\bin\Debug\net8.0\InvalidNumber.exe
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\bin\Debug\net8.0\InvalidNumber.deps.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\bin\Debug\net8.0\InvalidNumber.runtimeconfig.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\bin\Debug\net8.0\InvalidNumber.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\bin\Debug\net8.0\InvalidNumber.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\InvalidNumber.AssemblyInfo.cs
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\InvalidNumber.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\refint\InvalidNumber.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\InvalidNumber.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\InvalidNumber.genruntimeconfig.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\InvalidNumber\obj\Debug\net8.0\ref\InvalidNumber.dll

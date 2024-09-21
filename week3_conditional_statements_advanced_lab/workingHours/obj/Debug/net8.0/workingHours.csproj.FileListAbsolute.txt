@@ -1,0 +1,14 @@
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\bin\Debug\net8.0\workingHours.exe
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\bin\Debug\net8.0\workingHours.deps.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\bin\Debug\net8.0\workingHours.runtimeconfig.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\bin\Debug\net8.0\workingHours.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\bin\Debug\net8.0\workingHours.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\workingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\workingHours.AssemblyInfoInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\workingHours.AssemblyInfo.cs
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\workingHours.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\workingHours.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\refint\workingHours.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\workingHours.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\workingHours.genruntimeconfig.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\workingHours\obj\Debug\net8.0\ref\workingHours.dll

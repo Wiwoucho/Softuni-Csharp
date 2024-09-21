@@ -1,0 +1,14 @@
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\dayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\dayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\dayOfTheWeek.AssemblyInfo.cs
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\dayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\bin\Debug\net8.0\dayOfTheWeek.exe
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\bin\Debug\net8.0\dayOfTheWeek.deps.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\bin\Debug\net8.0\dayOfTheWeek.runtimeconfig.json
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\bin\Debug\net8.0\dayOfTheWeek.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\bin\Debug\net8.0\dayOfTheWeek.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\dayOfTheWeek.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\refint\dayOfTheWeek.dll
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\dayOfTheWeek.pdb
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\dayOfTheWeek.genruntimeconfig.cache
+C:\Users\wiwou\source\repos\week3_conditional_statements_advanced_lab\dayOfTheWeek\obj\Debug\net8.0\ref\dayOfTheWeek.dll
