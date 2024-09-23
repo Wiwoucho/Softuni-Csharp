@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\bin\Debug\net8.0\summer_outfit.exe
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\bin\Debug\net8.0\summer_outfit.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\bin\Debug\net8.0\summer_outfit.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\bin\Debug\net8.0\summer_outfit.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\bin\Debug\net8.0\summer_outfit.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\summer_outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\summer_outfit.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\summer_outfit.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\summer_outfit.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\summer_outfit.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\refint\summer_outfit.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\summer_outfit.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\summer_outfit.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\summer_outfit\obj\Debug\net8.0\ref\summer_outfit.dll
