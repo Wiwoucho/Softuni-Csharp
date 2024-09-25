@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\bin\Debug\net8.0\Journey.exe
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\bin\Debug\net8.0\Journey.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\bin\Debug\net8.0\Journey.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\bin\Debug\net8.0\Journey.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\bin\Debug\net8.0\Journey.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\Journey.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\Journey.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\Journey.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\Journey.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\refint\Journey.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\Journey.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\Journey.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\Journey\obj\Debug\net8.0\ref\Journey.dll
