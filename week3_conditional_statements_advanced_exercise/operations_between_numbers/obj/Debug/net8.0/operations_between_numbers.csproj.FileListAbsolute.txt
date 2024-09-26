@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\bin\Debug\net8.0\operations_between_numbers.exe
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\bin\Debug\net8.0\operations_between_numbers.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\bin\Debug\net8.0\operations_between_numbers.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\bin\Debug\net8.0\operations_between_numbers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\bin\Debug\net8.0\operations_between_numbers.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\operations_between_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\operations_between_numbers.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\operations_between_numbers.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\operations_between_numbers.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\operations_between_numbers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\refint\operations_between_numbers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\operations_between_numbers.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\operations_between_numbers.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\operations_between_numbers\obj\Debug\net8.0\ref\operations_between_numbers.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "operations_between_numbers/1.0.0": {
+        "runtime": {
+          "operations_between_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operations_between_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
