@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\bin\Debug\net8.0\On_time_for_test.exe
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\bin\Debug\net8.0\On_time_for_test.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\bin\Debug\net8.0\On_time_for_test.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\bin\Debug\net8.0\On_time_for_test.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\bin\Debug\net8.0\On_time_for_test.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\On_time_for_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\On_time_for_test.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\On_time_for_test.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\On_time_for_test.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\On_time_for_test.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\refint\On_time_for_test.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\On_time_for_test.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\On_time_for_test.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\On_time_for_test\obj\Debug\net8.0\ref\On_time_for_test.dll

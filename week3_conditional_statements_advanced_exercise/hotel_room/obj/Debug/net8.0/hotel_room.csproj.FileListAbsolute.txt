@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\bin\Debug\net8.0\hotel_room.exe
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\bin\Debug\net8.0\hotel_room.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\bin\Debug\net8.0\hotel_room.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\bin\Debug\net8.0\hotel_room.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\bin\Debug\net8.0\hotel_room.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\hotel_room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\hotel_room.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\hotel_room.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\hotel_room.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\hotel_room.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\refint\hotel_room.dll
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\hotel_room.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\hotel_room.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week3_conditional_statements_advanced_exercise\hotel_room\obj\Debug\net8.0\ref\hotel_room.dll
