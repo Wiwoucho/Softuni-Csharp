@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\bin\Debug\net8.0\odd_or_even_sum.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\bin\Debug\net8.0\odd_or_even_sum.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\bin\Debug\net8.0\odd_or_even_sum.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\bin\Debug\net8.0\odd_or_even_sum.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\bin\Debug\net8.0\odd_or_even_sum.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\odd_or_even_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\odd_or_even_sum.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\odd_or_even_sum.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\odd_or_even_sum.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\odd_or_even_sum.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\refint\odd_or_even_sum.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\odd_or_even_sum.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\odd_or_even_sum.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\odd_or_even_sum\obj\Debug\net8.0\ref\odd_or_even_sum.dll

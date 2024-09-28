@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\bin\Debug\net8.0\numbers_one_to_hundred.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\bin\Debug\net8.0\numbers_one_to_hundred.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\bin\Debug\net8.0\numbers_one_to_hundred.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\bin\Debug\net8.0\numbers_one_to_hundred.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\bin\Debug\net8.0\numbers_one_to_hundred.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\numbers_one_to_hundred.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\numbers_one_to_hundred.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\numbers_one_to_hundred.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\numbers_one_to_hundred.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\numbers_one_to_hundred.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\refint\numbers_one_to_hundred.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\numbers_one_to_hundred.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\numbers_one_to_hundred.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\numbers_one_to_hundred\obj\Debug\net8.0\ref\numbers_one_to_hundred.dll

@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\bin\Debug\net8.0\Character_sequence.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\bin\Debug\net8.0\Character_sequence.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\bin\Debug\net8.0\Character_sequence.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\bin\Debug\net8.0\Character_sequence.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\bin\Debug\net8.0\Character_sequence.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\Character_sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\Character_sequence.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\Character_sequence.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\Character_sequence.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\Character_sequence.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\refint\Character_sequence.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\Character_sequence.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\Character_sequence.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_cycle_lab\Character_sequence\obj\Debug\net8.0\ref\Character_sequence.dll

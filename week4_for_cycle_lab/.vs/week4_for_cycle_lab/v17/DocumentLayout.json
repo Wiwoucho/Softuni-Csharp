@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425FCFE7-66F1-4433-90EC-AA90975B9D8B}|odd_or_even_sum\\odd_or_even_sum.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\odd_or_even_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425FCFE7-66F1-4433-90EC-AA90975B9D8B}|odd_or_even_sum\\odd_or_even_sum.csproj|solutionrelative:odd_or_even_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC58986-111B-4D01-849A-64DF11DE3EE4}|left_or_right_sum\\left_or_right_sum.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\left_or_right_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC58986-111B-4D01-849A-64DF11DE3EE4}|left_or_right_sum\\left_or_right_sum.csproj|solutionrelative:left_or_right_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E4E6E8-4606-46CA-8708-378C022A6CF7}|number_sequence\\number_sequence.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\number_sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E4E6E8-4606-46CA-8708-378C022A6CF7}|number_sequence\\number_sequence.csproj|solutionrelative:number_sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89048B6A-AA05-4528-848F-FAB090BC7E91}|sum_numbers\\sum_numbers.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\sum_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89048B6A-AA05-4528-848F-FAB090BC7E91}|sum_numbers\\sum_numbers.csproj|solutionrelative:sum_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF4C10B-53DE-40AC-B89F-1E7B01493FF5}|vowew_sum\\vowew_sum.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\vowew_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF4C10B-53DE-40AC-B89F-1E7B01493FF5}|vowew_sum\\vowew_sum.csproj|solutionrelative:vowew_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBC925-064C-4AEB-B5F2-4E5CA85DFE43}|Character_sequence\\Character_sequence.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\character_sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EBC925-064C-4AEB-B5F2-4E5CA85DFE43}|Character_sequence\\Character_sequence.csproj|solutionrelative:character_sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF14D6F-1896-445D-B17E-D20293F2B7B1}|even_powers_2\\even_powers_2.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\even_powers_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF14D6F-1896-445D-B17E-D20293F2B7B1}|even_powers_2\\even_powers_2.csproj|solutionrelative:even_powers_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA47344-63E1-46AE-B020-26D8DA8A82BB}|step_with_3\\step_with_3.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\step_with_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA47344-63E1-46AE-B020-26D8DA8A82BB}|step_with_3\\step_with_3.csproj|solutionrelative:step_with_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B748915-B2AC-431D-8045-EF966100FA0E}|numbers_n1\\numbers_n1.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\numbers_n1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B748915-B2AC-431D-8045-EF966100FA0E}|numbers_n1\\numbers_n1.csproj|solutionrelative:numbers_n1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827F2FDD-9AC7-49DC-BA8E-D0AEBA69D1CE}|numbers_one_to_hundred\\numbers_one_to_hundred.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_cycle_lab\\numbers_one_to_hundred\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827F2FDD-9AC7-49DC-BA8E-D0AEBA69D1CE}|numbers_one_to_hundred\\numbers_one_to_hundred.csproj|solutionrelative:numbers_one_to_hundred\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\odd_or_even_sum\\Program.cs",
+              "RelativeDocumentMoniker": "odd_or_even_sum\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\odd_or_even_sum\\Program.cs",
+              "RelativeToolTip": "odd_or_even_sum\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:36:35.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\left_or_right_sum\\Program.cs",
+              "RelativeDocumentMoniker": "left_or_right_sum\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\left_or_right_sum\\Program.cs",
+              "RelativeToolTip": "left_or_right_sum\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:12:27.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\number_sequence\\Program.cs",
+              "RelativeDocumentMoniker": "number_sequence\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\number_sequence\\Program.cs",
+              "RelativeToolTip": "number_sequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:01:36.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\sum_numbers\\Program.cs",
+              "RelativeDocumentMoniker": "sum_numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\sum_numbers\\Program.cs",
+              "RelativeToolTip": "sum_numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:56:36.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\vowew_sum\\Program.cs",
+              "RelativeDocumentMoniker": "vowew_sum\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\vowew_sum\\Program.cs",
+              "RelativeToolTip": "vowew_sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:26:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\Character_sequence\\Program.cs",
+              "RelativeDocumentMoniker": "Character_sequence\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\Character_sequence\\Program.cs",
+              "RelativeToolTip": "Character_sequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:13:18.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\even_powers_2\\Program.cs",
+              "RelativeDocumentMoniker": "even_powers_2\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\even_powers_2\\Program.cs",
+              "RelativeToolTip": "even_powers_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:45:37.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\step_with_3\\Program.cs",
+              "RelativeDocumentMoniker": "step_with_3\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\step_with_3\\Program.cs",
+              "RelativeToolTip": "step_with_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:41:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\numbers_n1\\Program.cs",
+              "RelativeDocumentMoniker": "numbers_n1\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\numbers_n1\\Program.cs",
+              "RelativeToolTip": "numbers_n1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:34:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\numbers_one_to_hundred\\Program.cs",
+              "RelativeDocumentMoniker": "numbers_one_to_hundred\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_cycle_lab\\numbers_one_to_hundred\\Program.cs",
+              "RelativeToolTip": "numbers_one_to_hundred\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:08:54.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
