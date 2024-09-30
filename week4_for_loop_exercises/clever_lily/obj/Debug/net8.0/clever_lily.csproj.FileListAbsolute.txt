@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\bin\Debug\net8.0\clever_lily.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\bin\Debug\net8.0\clever_lily.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\bin\Debug\net8.0\clever_lily.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\bin\Debug\net8.0\clever_lily.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\bin\Debug\net8.0\clever_lily.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\clever_lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\clever_lily.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\clever_lily.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\clever_lily.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\clever_lily.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\refint\clever_lily.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\clever_lily.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\clever_lily.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\clever_lily\obj\Debug\net8.0\ref\clever_lily.dll

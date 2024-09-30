@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E275C7B4-F90E-4726-BCBD-0D28E02CC4EE}|salary\\salary.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_loop_exercises\\salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E275C7B4-F90E-4726-BCBD-0D28E02CC4EE}|salary\\salary.csproj|solutionrelative:salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A783C6DC-BAA7-4241-9ABA-9F8D9696BBB8}|clever_lily\\clever_lily.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_loop_exercises\\clever_lily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A783C6DC-BAA7-4241-9ABA-9F8D9696BBB8}|clever_lily\\clever_lily.csproj|solutionrelative:clever_lily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5EB91E-1C3F-4D20-878E-BFAF40DA7E49}|Hystrogram\\Hystrogram.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_loop_exercises\\hystrogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5EB91E-1C3F-4D20-878E-BFAF40DA7E49}|Hystrogram\\Hystrogram.csproj|solutionrelative:hystrogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C942C446-4224-4B78-ACBD-01B46B32CD4A}|half_sum_element\\half_sum_element.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_loop_exercises\\half_sum_element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C942C446-4224-4B78-ACBD-01B46B32CD4A}|half_sum_element\\half_sum_element.csproj|solutionrelative:half_sum_element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E04B1E-DD29-4F3A-9394-7DE79B404776}|number_ending_7\\number_ending_7.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week4_for_loop_exercises\\number_ending_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E04B1E-DD29-4F3A-9394-7DE79B404776}|number_ending_7\\number_ending_7.csproj|solutionrelative:number_ending_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\salary\\Program.cs",
+              "RelativeDocumentMoniker": "salary\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\salary\\Program.cs",
+              "RelativeToolTip": "salary\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:52:29.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\clever_lily\\Program.cs",
+              "RelativeDocumentMoniker": "clever_lily\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\clever_lily\\Program.cs",
+              "RelativeToolTip": "clever_lily\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:30:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\Hystrogram\\Program.cs",
+              "RelativeDocumentMoniker": "Hystrogram\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\Hystrogram\\Program.cs",
+              "RelativeToolTip": "Hystrogram\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:17:34.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\half_sum_element\\Program.cs",
+              "RelativeDocumentMoniker": "half_sum_element\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\half_sum_element\\Program.cs",
+              "RelativeToolTip": "half_sum_element\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:43:13.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\number_ending_7\\Program.cs",
+              "RelativeDocumentMoniker": "number_ending_7\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week4_for_loop_exercises\\number_ending_7\\Program.cs",
+              "RelativeToolTip": "number_ending_7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:37:08.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

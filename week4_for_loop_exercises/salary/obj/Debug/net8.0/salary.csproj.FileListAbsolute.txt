@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\bin\Debug\net8.0\salary.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\bin\Debug\net8.0\salary.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\bin\Debug\net8.0\salary.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\bin\Debug\net8.0\salary.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\bin\Debug\net8.0\salary.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\salary.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\salary.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\salary.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\salary.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\refint\salary.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\salary.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\salary.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_for_loop_exercises\salary\obj\Debug\net8.0\ref\salary.dll
