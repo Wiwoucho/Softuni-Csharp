@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\bin\Debug\net8.0\back_to_the_future.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\bin\Debug\net8.0\back_to_the_future.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\bin\Debug\net8.0\back_to_the_future.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\bin\Debug\net8.0\back_to_the_future.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\bin\Debug\net8.0\back_to_the_future.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\back_to_the_future.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\back_to_the_future.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\back_to_the_future.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\back_to_the_future.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\back_to_the_future.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\refint\back_to_the_future.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\back_to_the_future.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\back_to_the_future.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\back_to_the_future\obj\Debug\net8.0\ref\back_to_the_future.dll

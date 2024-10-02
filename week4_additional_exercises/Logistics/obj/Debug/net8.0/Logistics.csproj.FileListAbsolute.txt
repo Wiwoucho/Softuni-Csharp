@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\bin\Debug\net8.0\Logistics.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\bin\Debug\net8.0\Logistics.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\bin\Debug\net8.0\Logistics.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\bin\Debug\net8.0\Logistics.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\bin\Debug\net8.0\Logistics.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\Logistics.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\Logistics.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\Logistics.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\refint\Logistics.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\Logistics.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\Logistics.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\Logistics\obj\Debug\net8.0\ref\Logistics.dll
