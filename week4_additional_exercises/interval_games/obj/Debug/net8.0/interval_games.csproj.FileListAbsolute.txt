@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\bin\Debug\net8.0\interval_games.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\bin\Debug\net8.0\interval_games.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\bin\Debug\net8.0\interval_games.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\bin\Debug\net8.0\interval_games.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\bin\Debug\net8.0\interval_games.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\interval_games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\interval_games.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\interval_games.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\interval_games.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\interval_games.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\refint\interval_games.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\interval_games.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\interval_games.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\interval_games\obj\Debug\net8.0\ref\interval_games.dll
