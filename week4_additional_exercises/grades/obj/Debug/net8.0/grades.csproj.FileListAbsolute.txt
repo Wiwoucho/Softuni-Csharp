@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\bin\Debug\net8.0\grades.exe
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\bin\Debug\net8.0\grades.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\bin\Debug\net8.0\grades.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\bin\Debug\net8.0\grades.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\bin\Debug\net8.0\grades.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\grades.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\grades.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\grades.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\grades.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\refint\grades.dll
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\grades.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\grades.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week4_additional_exercises\grades\obj\Debug\net8.0\ref\grades.dll
