@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\bin\Debug\net8.0\graduate.exe
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\bin\Debug\net8.0\graduate.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\bin\Debug\net8.0\graduate.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\bin\Debug\net8.0\graduate.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\bin\Debug\net8.0\graduate.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\graduate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\graduate.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\graduate.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\graduate.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\graduate.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\refint\graduate.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\graduate.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\graduate.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\graduate\obj\Debug\net8.0\ref\graduate.dll

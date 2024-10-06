@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\bin\Debug\net8.0\sum_numbers.exe
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\bin\Debug\net8.0\sum_numbers.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\bin\Debug\net8.0\sum_numbers.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\bin\Debug\net8.0\sum_numbers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\bin\Debug\net8.0\sum_numbers.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\sum_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\sum_numbers.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\sum_numbers.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\sum_numbers.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\sum_numbers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\refint\sum_numbers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\sum_numbers.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\sum_numbers.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\sum_numbers\obj\Debug\net8.0\ref\sum_numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\bin\Debug\net8.0\read_text.exe
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\bin\Debug\net8.0\read_text.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\bin\Debug\net8.0\read_text.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\bin\Debug\net8.0\read_text.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\bin\Debug\net8.0\read_text.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\read_text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\read_text.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\read_text.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\read_text.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\read_text.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\refint\read_text.dll
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\read_text.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\read_text.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week5_while_loop_lab\read_text\obj\Debug\net8.0\ref\read_text.dll

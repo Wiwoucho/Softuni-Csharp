@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD38E8A-A4EF-40F9-86E5-838CFA92298D}|graduate\\graduate.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week5_while_loop_lab\\graduate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD38E8A-A4EF-40F9-86E5-838CFA92298D}|graduate\\graduate.csproj|solutionrelative:graduate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C92D89D-627D-46AC-A0D3-6636742B8B97}|min_number\\min_number.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week5_while_loop_lab\\min_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C92D89D-627D-46AC-A0D3-6636742B8B97}|min_number\\min_number.csproj|solutionrelative:min_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A62B29-AEA7-4BBA-BEFF-7EF68DC41CA3}|max_number\\max_number.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week5_while_loop_lab\\max_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A62B29-AEA7-4BBA-BEFF-7EF68DC41CA3}|max_number\\max_number.csproj|solutionrelative:max_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8066881A-99EB-4DF8-A33D-CF531CA4E911}|balance\\balance.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week5_while_loop_lab\\balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8066881A-99EB-4DF8-A33D-CF531CA4E911}|balance\\balance.csproj|solutionrelative:balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F75DD7-42C9-480D-99FC-7A2CBA5C3E73}|sequence\\sequence.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week5_while_loop_lab\\sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F75DD7-42C9-480D-99FC-7A2CBA5C3E73}|sequence\\sequence.csproj|solutionrelative:sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3C32F0-2B6F-4AC1-B199-4EB5A793C7B8}|sum_numbers\\sum_numbers.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week5_while_loop_lab\\sum_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3C32F0-2B6F-4AC1-B199-4EB5A793C7B8}|sum_numbers\\sum_numbers.csproj|solutionrelative:sum_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D77106-2754-4158-8D46-59DDAC2610F0}|password\\password.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week5_while_loop_lab\\password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D77106-2754-4158-8D46-59DDAC2610F0}|password\\password.csproj|solutionrelative:password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C580C3B7-3BD2-422C-9490-9B4E9FBE69AD}|read_text\\read_text.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week5_while_loop_lab\\read_text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C580C3B7-3BD2-422C-9490-9B4E9FBE69AD}|read_text\\read_text.csproj|solutionrelative:read_text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\graduate\\Program.cs",
+              "RelativeDocumentMoniker": "graduate\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\graduate\\Program.cs",
+              "RelativeToolTip": "graduate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:00:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\min_number\\Program.cs",
+              "RelativeDocumentMoniker": "min_number\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\min_number\\Program.cs",
+              "RelativeToolTip": "min_number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:58:42.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\max_number\\Program.cs",
+              "RelativeDocumentMoniker": "max_number\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\max_number\\Program.cs",
+              "RelativeToolTip": "max_number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:54:41.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\balance\\Program.cs",
+              "RelativeDocumentMoniker": "balance\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\balance\\Program.cs",
+              "RelativeToolTip": "balance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:31:45.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\sequence\\Program.cs",
+              "RelativeDocumentMoniker": "sequence\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\sequence\\Program.cs",
+              "RelativeToolTip": "sequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:26:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\sum_numbers\\Program.cs",
+              "RelativeDocumentMoniker": "sum_numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\sum_numbers\\Program.cs",
+              "RelativeToolTip": "sum_numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:02:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\password\\Program.cs",
+              "RelativeDocumentMoniker": "password\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\password\\Program.cs",
+              "RelativeToolTip": "password\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:51:28.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\read_text\\Program.cs",
+              "RelativeDocumentMoniker": "read_text\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week5_while_loop_lab\\read_text\\Program.cs",
+              "RelativeToolTip": "read_text\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:35:02.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
