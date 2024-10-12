@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\bin\Debug\net8.0\sumOfTwo.exe
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\bin\Debug\net8.0\sumOfTwo.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\bin\Debug\net8.0\sumOfTwo.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\bin\Debug\net8.0\sumOfTwo.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\bin\Debug\net8.0\sumOfTwo.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\sumOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\sumOfTwo.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\sumOfTwo.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\sumOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\sumOfTwo.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\refint\sumOfTwo.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\sumOfTwo.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\sumOfTwo.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\sumOfTwo\obj\Debug\net8.0\ref\sumOfTwo.dll

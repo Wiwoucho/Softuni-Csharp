@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\bin\Debug\net8.0\Clock.exe
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\bin\Debug\net8.0\Clock.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\bin\Debug\net8.0\Clock.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\bin\Debug\net8.0\Clock.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\bin\Debug\net8.0\Clock.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\Clock.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\Clock.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\Clock.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\refint\Clock.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\Clock.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\Clock.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_lab\Clock\obj\Debug\net8.0\ref\Clock.dll

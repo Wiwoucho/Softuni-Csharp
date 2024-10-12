@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F204FA44-5046-4B36-9E36-F8F00254C65E}|Building\\Building.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week6_nested_loops_lab\\building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F204FA44-5046-4B36-9E36-F8F00254C65E}|Building\\Building.csproj|solutionrelative:building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C19993-8F7B-4C4A-A2B0-4B1ABC454158}|Traveling\\Traveling.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week6_nested_loops_lab\\traveling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C19993-8F7B-4C4A-A2B0-4B1ABC454158}|Traveling\\Traveling.csproj|solutionrelative:traveling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2956B9C1-14F6-4DF4-AF3B-58531A5A3214}|sumOfTwo\\sumOfTwo.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week6_nested_loops_lab\\sumoftwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2956B9C1-14F6-4DF4-AF3B-58531A5A3214}|sumOfTwo\\sumOfTwo.csproj|solutionrelative:sumoftwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DE640-3D32-4450-A309-F35CA491DE23}|combinations\\combinations.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week6_nested_loops_lab\\combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DE640-3D32-4450-A309-F35CA491DE23}|combinations\\combinations.csproj|solutionrelative:combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743F36BC-F2B1-46A9-8115-D02545801F40}|multiplicationTable\\multiplicationTable.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week6_nested_loops_lab\\multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743F36BC-F2B1-46A9-8115-D02545801F40}|multiplicationTable\\multiplicationTable.csproj|solutionrelative:multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86AE0EE-06FD-4354-89AF-83F74EAAA03A}|Clock\\Clock.csproj|c:\\users\\wiwou\\desktop\\csharp basics\\week6_nested_loops_lab\\clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86AE0EE-06FD-4354-89AF-83F74EAAA03A}|Clock\\Clock.csproj|solutionrelative:clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\Building\\Program.cs",
+              "RelativeDocumentMoniker": "Building\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\Building\\Program.cs",
+              "RelativeToolTip": "Building\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:41:11.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\Traveling\\Program.cs",
+              "RelativeDocumentMoniker": "Traveling\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\Traveling\\Program.cs",
+              "RelativeToolTip": "Traveling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:03:35.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\sumOfTwo\\Program.cs",
+              "RelativeDocumentMoniker": "sumOfTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\sumOfTwo\\Program.cs",
+              "RelativeToolTip": "sumOfTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:49:11.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\combinations\\Program.cs",
+              "RelativeDocumentMoniker": "combinations\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\combinations\\Program.cs",
+              "RelativeToolTip": "combinations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:36:18.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\multiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "multiplicationTable\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\multiplicationTable\\Program.cs",
+              "RelativeToolTip": "multiplicationTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:14:59.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\Clock\\Program.cs",
+              "RelativeDocumentMoniker": "Clock\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Csharp basics\\week6_nested_loops_lab\\Clock\\Program.cs",
+              "RelativeToolTip": "Clock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:12:27.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
