@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\bin\Debug\net8.0\numberPyramid.exe
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\bin\Debug\net8.0\numberPyramid.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\bin\Debug\net8.0\numberPyramid.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\bin\Debug\net8.0\numberPyramid.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\bin\Debug\net8.0\numberPyramid.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\numberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\numberPyramid.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\numberPyramid.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\numberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\numberPyramid.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\refint\numberPyramid.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\numberPyramid.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\numberPyramid.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\numberPyramid\obj\Debug\net8.0\ref\numberPyramid.dll
