@@ -1,28 +1,18 @@
-﻿using System;
+﻿int n = int.Parse(Console.ReadLine());
 
-class Program
+int currentNumber = 1;
+
+        
+for (int row = 1; currentNumber <= n; row++)
 {
-    static void Main()
+            
+    for (int col = 1; col <= row; col++)
     {
-        // Четене на число n от потребителя
-        Console.Write("Въведете число n: ");
-        int n = int.Parse(Console.ReadLine());
-
-        int currentNumber = 1;
-
-        // Външен цикъл за редовете
-        for (int row = 1; currentNumber <= n; row++)
-        {
-            // Вътрешен цикъл за отпечатване на числа в съответния ред
-            for (int col = 1; col <= row; col++)
-            {
-                if (currentNumber > n)
-                    break; // Излизане от цикъла, ако числото надвиши n
-
-                Console.Write(currentNumber + " ");
-                currentNumber++;
-            }
-            Console.WriteLine(); // Прехвърляне на нов ред след всеки ред от пирамидата
-        }
+        if (currentNumber > n)
+        break;
+            
+        Console.Write(currentNumber + " ");
+        currentNumber++;
     }
+    Console.WriteLine(); 
 }
