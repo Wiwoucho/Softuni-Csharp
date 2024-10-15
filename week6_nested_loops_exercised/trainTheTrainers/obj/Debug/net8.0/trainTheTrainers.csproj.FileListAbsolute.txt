@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\bin\Debug\net8.0\trainTheTrainers.exe
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\bin\Debug\net8.0\trainTheTrainers.deps.json
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\bin\Debug\net8.0\trainTheTrainers.runtimeconfig.json
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\bin\Debug\net8.0\trainTheTrainers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\bin\Debug\net8.0\trainTheTrainers.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\trainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\trainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\trainTheTrainers.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\trainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\trainTheTrainers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\refint\trainTheTrainers.dll
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\trainTheTrainers.pdb
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\trainTheTrainers.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\Csharp basics\week6_nested_loops_exercised\trainTheTrainers\obj\Debug\net8.0\ref\trainTheTrainers.dll
