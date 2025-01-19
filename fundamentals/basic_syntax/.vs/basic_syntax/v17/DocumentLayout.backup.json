@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\Softuni-Csharp\\fundamentals\\basic_syntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{411D79BA-6FD7-407B-B108-EE1D9713A22C}|student_information\\student_information.csproj|c:\\users\\wiwou\\desktop\\softuni-csharp\\fundamentals\\basic_syntax\\student_information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411D79BA-6FD7-407B-B108-EE1D9713A22C}|student_information\\student_information.csproj|solutionrelative:student_information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\Softuni-Csharp\\fundamentals\\basic_syntax\\student_information\\Program.cs",
+              "RelativeDocumentMoniker": "student_information\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\Softuni-Csharp\\fundamentals\\basic_syntax\\student_information\\Program.cs",
+              "RelativeToolTip": "student_information\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T00:23:28.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
