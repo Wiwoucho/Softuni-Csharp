@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wiwou\\Desktop\\Softuni-Csharp\\fundamentals\\basic_syntax\\student_information\\student_information.csproj",
-      "projectName": "student_information",
-      "projectPath": "C:\\Users\\wiwou\\Desktop\\Softuni-Csharp\\fundamentals\\basic_syntax\\student_information\\student_information.csproj",
+      "projectUniqueName": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\basic_syntax\\Student_information\\Student_information.csproj",
+      "projectName": "Student_information",
+      "projectPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\basic_syntax\\Student_information\\Student_information.csproj",
       "packagesPath": "C:\\Users\\wiwou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wiwou\\Desktop\\Softuni-Csharp\\fundamentals\\basic_syntax\\student_information\\obj\\",
+      "outputPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\basic_syntax\\Student_information\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

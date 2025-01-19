@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\bin\Debug\net8.0\HolidaysBetweenTwoDates.exe
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\bin\Debug\net8.0\HolidaysBetweenTwoDates.deps.json
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\bin\Debug\net8.0\HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\bin\Debug\net8.0\HolidaysBetweenTwoDates.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\bin\Debug\net8.0\HolidaysBetweenTwoDates.pdb
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\HolidaysBetweenTwoDates.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\refint\HolidaysBetweenTwoDates.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\HolidaysBetweenTwoDates.pdb
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\HolidaysBetweenTwoDates.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\HolidaysBetweenTwoDates\obj\Debug\net8.0\ref\HolidaysBetweenTwoDates.dll

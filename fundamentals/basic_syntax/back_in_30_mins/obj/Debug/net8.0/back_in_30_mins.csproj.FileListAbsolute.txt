@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\bin\Debug\net8.0\back_in_30_mins.exe
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\bin\Debug\net8.0\back_in_30_mins.deps.json
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\bin\Debug\net8.0\back_in_30_mins.runtimeconfig.json
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\bin\Debug\net8.0\back_in_30_mins.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\bin\Debug\net8.0\back_in_30_mins.pdb
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\back_in_30_mins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\back_in_30_mins.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\back_in_30_mins.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\back_in_30_mins.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\back_in_30_mins.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\refint\back_in_30_mins.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\back_in_30_mins.pdb
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\back_in_30_mins.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\back_in_30_mins\obj\Debug\net8.0\ref\back_in_30_mins.dll

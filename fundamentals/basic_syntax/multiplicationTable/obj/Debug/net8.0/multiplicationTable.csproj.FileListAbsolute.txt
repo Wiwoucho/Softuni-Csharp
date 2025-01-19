@@ -1,0 +1,14 @@
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\bin\Debug\net8.0\multiplicationTable.exe
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\bin\Debug\net8.0\multiplicationTable.deps.json
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\bin\Debug\net8.0\multiplicationTable.runtimeconfig.json
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\bin\Debug\net8.0\multiplicationTable.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\bin\Debug\net8.0\multiplicationTable.pdb
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\multiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\multiplicationTable.AssemblyInfo.cs
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\multiplicationTable.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\refint\multiplicationTable.dll
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\multiplicationTable.pdb
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\multiplicationTable.genruntimeconfig.cache
+C:\Users\wiwou\Desktop\csharp_fundamentals\basic_syntax\multiplicationTable\obj\Debug\net8.0\ref\multiplicationTable.dll
