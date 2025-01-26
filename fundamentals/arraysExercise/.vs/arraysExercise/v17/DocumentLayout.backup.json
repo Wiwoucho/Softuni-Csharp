@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B49DC6-9FF4-4053-B972-F5C73998774B}|arrayRotation\\arrayRotation.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\arraysexercise\\arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B49DC6-9FF4-4053-B972-F5C73998774B}|arrayRotation\\arrayRotation.csproj|solutionrelative:arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E40743-6537-440D-909C-168E2229B255}|zigZagPattern\\zigZagPattern.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\arraysexercise\\zigzagpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E40743-6537-440D-909C-168E2229B255}|zigZagPattern\\zigZagPattern.csproj|solutionrelative:zigzagpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D13CF51-7941-4F74-8905-CDA108397C26}|commonElements\\commonElements.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\arraysexercise\\commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D13CF51-7941-4F74-8905-CDA108397C26}|commonElements\\commonElements.csproj|solutionrelative:commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F001F5-7EB9-496C-879A-22E63EB1DADA}|train\\train.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\arraysexercise\\train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F001F5-7EB9-496C-879A-22E63EB1DADA}|train\\train.csproj|solutionrelative:train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\arrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "arrayRotation\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\arrayRotation\\Program.cs",
+              "RelativeToolTip": "arrayRotation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:18:25.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\zigZagPattern\\Program.cs",
+              "RelativeDocumentMoniker": "zigZagPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\zigZagPattern\\Program.cs",
+              "RelativeToolTip": "zigZagPattern\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:03:11.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\commonElements\\Program.cs",
+              "RelativeDocumentMoniker": "commonElements\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\commonElements\\Program.cs",
+              "RelativeToolTip": "commonElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:50:56.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\train\\Program.cs",
+              "RelativeDocumentMoniker": "train\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\arraysExercise\\train\\Program.cs",
+              "RelativeToolTip": "train\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:57:06.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
