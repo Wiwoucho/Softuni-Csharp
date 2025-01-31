@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F9879-2452-433B-9113-2C788D9EDBB9}|passwordValidator\\passwordValidator.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsexercise\\passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F9879-2452-433B-9113-2C788D9EDBB9}|passwordValidator\\passwordValidator.csproj|solutionrelative:passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E48427-9117-4768-B26F-0F214AF5209A}|charactersInRange\\charactersInRange.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsexercise\\charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E48427-9117-4768-B26F-0F214AF5209A}|charactersInRange\\charactersInRange.csproj|solutionrelative:charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736985E8-CAE9-43AE-8577-B88C13A5C3AA}|palindromIntegers\\palindromIntegers.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsexercise\\palindromintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736985E8-CAE9-43AE-8577-B88C13A5C3AA}|palindromIntegers\\palindromIntegers.csproj|solutionrelative:palindromintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F35062-2950-4156-BBCB-939AC9437E6F}|factorialDevision\\factorialDevision.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsexercise\\factorialdevision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F35062-2950-4156-BBCB-939AC9437E6F}|factorialDevision\\factorialDevision.csproj|solutionrelative:factorialdevision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6B524-29E0-4BAF-987F-B0BF28D039FB}|vowelsCount\\vowelsCount.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsexercise\\vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE6B524-29E0-4BAF-987F-B0BF28D039FB}|vowelsCount\\vowelsCount.csproj|solutionrelative:vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B24D1C-E1D2-4868-9995-23E9C68FEAE9}|SmallestOfThreeNumbers\\SmallestOfThreeNumbers.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsexercise\\smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B24D1C-E1D2-4868-9995-23E9C68FEAE9}|SmallestOfThreeNumbers\\SmallestOfThreeNumbers.csproj|solutionrelative:smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\passwordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "passwordValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\passwordValidator\\Program.cs",
+              "RelativeToolTip": "passwordValidator\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:55:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\charactersInRange\\Program.cs",
+              "RelativeDocumentMoniker": "charactersInRange\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\charactersInRange\\Program.cs",
+              "RelativeToolTip": "charactersInRange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:33:11.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\palindromIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "palindromIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\palindromIntegers\\Program.cs",
+              "RelativeToolTip": "palindromIntegers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:06:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\factorialDevision\\Program.cs",
+              "RelativeDocumentMoniker": "factorialDevision\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\factorialDevision\\Program.cs",
+              "RelativeToolTip": "factorialDevision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:01:27.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\vowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "vowelsCount\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\vowelsCount\\Program.cs",
+              "RelativeToolTip": "vowelsCount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:29:10.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\SmallestOfThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SmallestOfThreeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsExercise\\SmallestOfThreeNumbers\\Program.cs",
+              "RelativeToolTip": "SmallestOfThreeNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:08:17.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
