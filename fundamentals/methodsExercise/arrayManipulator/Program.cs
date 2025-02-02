@@ -1,6 +1,4 @@
-﻿using System;
-
-int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
+﻿int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
 string[] command = Console.ReadLine().Split();
 
@@ -41,7 +39,7 @@ while (command[0] != "end")
             }
             else
             {
-                Console.WriteLine(MinOddIndex(arr));    
+                Console.WriteLine(MinOddIndex(arr));
             }
             break;
 
@@ -77,9 +75,9 @@ Console.WriteLine($"[{string.Join(", ", arr)}]");
 
 static int[] ExchangeIndex(int[] nums, int index)
 {
-    
 
-    if (nums.Length > index)
+
+    if (index >= 0 && index < nums.Length)
     {
         int[] sliceLeftPart = nums[0..(index + 1)];
         int[] sliceRightPart = nums[(index + 1)..];
@@ -87,7 +85,7 @@ static int[] ExchangeIndex(int[] nums, int index)
     }
 
 
-    return null; 
+    return null;
 }
 
 
@@ -204,7 +202,7 @@ static string FirstEvenNumbers(int[] nums, int count)
     int[] newArray = new int[0];
     int counter = 0;
 
-    for (int i = 0;i < nums.Length;i++)
+    for (int i = 0; i < nums.Length; i++)
     {
         if (nums[i] % 2 == 0)
         {
@@ -212,7 +210,7 @@ static string FirstEvenNumbers(int[] nums, int count)
             {
                 break;
             }
-            Array.Resize(ref newArray, newArray.Length  + 1);
+            Array.Resize(ref newArray, newArray.Length + 1);
             newArray[counter] = nums[i];
             counter++;
         }
