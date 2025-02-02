@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AB9FAD-6910-4517-BD33-E384AD7CB1A7}|mathPower\\mathPower.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodslab\\mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AB9FAD-6910-4517-BD33-E384AD7CB1A7}|mathPower\\mathPower.csproj|solutionrelative:mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5994FFF-CB00-47FB-85EE-F9B06A047ABF}|repeatString\\repeatString.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodslab\\repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5994FFF-CB00-47FB-85EE-F9B06A047ABF}|repeatString\\repeatString.csproj|solutionrelative:repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15B3A9-60D3-47CE-A3C6-6E53A08E9957}|rectangleArea\\rectangleArea.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodslab\\rectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15B3A9-60D3-47CE-A3C6-6E53A08E9957}|rectangleArea\\rectangleArea.csproj|solutionrelative:rectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A65363-76D4-4230-8DAA-A733563CCDEA}|printingTriangle\\printingTriangle.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodslab\\printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A65363-76D4-4230-8DAA-A733563CCDEA}|printingTriangle\\printingTriangle.csproj|solutionrelative:printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959F1D8C-58F9-4496-9D38-CBD13482DF74}|orders\\orders.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodslab\\orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959F1D8C-58F9-4496-9D38-CBD13482DF74}|orders\\orders.csproj|solutionrelative:orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D657ED7E-9196-4D94-9979-11E89C558900}|calculations\\calculations.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodslab\\calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D657ED7E-9196-4D94-9979-11E89C558900}|calculations\\calculations.csproj|solutionrelative:calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C3F7-2D66-43B4-B41B-864ADB6F8F23}|grades\\grades.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodslab\\grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C3F7-2D66-43B4-B41B-864ADB6F8F23}|grades\\grades.csproj|solutionrelative:grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA5CBC-E0A4-47ED-A47D-4B72FFA9F6BE}|SignOfIntegers\\SignOfIntegers.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodslab\\signofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CA5CBC-E0A4-47ED-A47D-4B72FFA9F6BE}|SignOfIntegers\\SignOfIntegers.csproj|solutionrelative:signofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\mathPower\\Program.cs",
+              "RelativeDocumentMoniker": "mathPower\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\mathPower\\Program.cs",
+              "RelativeToolTip": "mathPower\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:29:21.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\repeatString\\Program.cs",
+              "RelativeDocumentMoniker": "repeatString\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\repeatString\\Program.cs",
+              "RelativeToolTip": "repeatString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:25:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\rectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "rectangleArea\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\rectangleArea\\Program.cs",
+              "RelativeToolTip": "rectangleArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:22:51.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\orders\\Program.cs",
+              "RelativeDocumentMoniker": "orders\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\orders\\Program.cs",
+              "RelativeToolTip": "orders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:14:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\printingTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "printingTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\printingTriangle\\Program.cs",
+              "RelativeToolTip": "printingTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:28:37.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\calculations\\Program.cs",
+              "RelativeDocumentMoniker": "calculations\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\calculations\\Program.cs",
+              "RelativeToolTip": "calculations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:21:18.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\grades\\Program.cs",
+              "RelativeDocumentMoniker": "grades\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\grades\\Program.cs",
+              "RelativeToolTip": "grades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:17:10.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\SignOfIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "SignOfIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsLab\\SignOfIntegers\\Program.cs",
+              "RelativeToolTip": "SignOfIntegers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:14:06.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
