@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsMoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D12F3CB-7151-4BD0-BFA7-8D593FDF6B4B}|longerLine\\longerLine.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsmoreexercises\\longerline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D12F3CB-7151-4BD0-BFA7-8D593FDF6B4B}|longerLine\\longerLine.csproj|solutionrelative:longerline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C2396F-7375-40D2-B012-B7463F47C604}|centerPoint\\centerPoint.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsmoreexercises\\centerpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C2396F-7375-40D2-B012-B7463F47C604}|centerPoint\\centerPoint.csproj|solutionrelative:centerpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6680B1E4-1249-4A4A-9B30-E21548622798}|dataTypes\\dataTypes.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\methodsmoreexercises\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6680B1E4-1249-4A4A-9B30-E21548622798}|dataTypes\\dataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsMoreExercises\\longerLine\\Program.cs",
+              "RelativeDocumentMoniker": "longerLine\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsMoreExercises\\longerLine\\Program.cs*",
+              "RelativeToolTip": "longerLine\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:46:23.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsMoreExercises\\centerPoint\\Program.cs",
+              "RelativeDocumentMoniker": "centerPoint\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsMoreExercises\\centerPoint\\Program.cs",
+              "RelativeToolTip": "centerPoint\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:05:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsMoreExercises\\dataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "dataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\methodsMoreExercises\\dataTypes\\Program.cs",
+              "RelativeToolTip": "dataTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:59:27.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
