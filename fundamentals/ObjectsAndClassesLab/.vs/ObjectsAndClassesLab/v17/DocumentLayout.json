@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC4514B-DC7B-4B7B-96A8-24F487346F9E}|songs\\songs.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\objectsandclasseslab\\songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC4514B-DC7B-4B7B-96A8-24F487346F9E}|songs\\songs.csproj|solutionrelative:songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD1087-7C53-494B-9DE2-ED63370B0732}|bigFactorial\\bigFactorial.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\objectsandclasseslab\\bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD1087-7C53-494B-9DE2-ED63370B0732}|bigFactorial\\bigFactorial.csproj|solutionrelative:bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96FE52-BDA4-426D-998F-4F7FECE091EE}|randomizeWords\\randomizeWords.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\objectsandclasseslab\\randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96FE52-BDA4-426D-998F-4F7FECE091EE}|randomizeWords\\randomizeWords.csproj|solutionrelative:randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesLab\\songs\\Program.cs",
+              "RelativeDocumentMoniker": "songs\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesLab\\songs\\Program.cs",
+              "RelativeToolTip": "songs\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:24:24.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesLab\\bigFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "bigFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesLab\\bigFactorial\\Program.cs",
+              "RelativeToolTip": "bigFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:20:27.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesLab\\randomizeWords\\Program.cs",
+              "RelativeDocumentMoniker": "randomizeWords\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesLab\\randomizeWords\\Program.cs",
+              "RelativeToolTip": "randomizeWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:10:49.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
