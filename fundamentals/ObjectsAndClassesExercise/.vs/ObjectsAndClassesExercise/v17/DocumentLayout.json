@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A66D59-5E5F-4994-9EE6-403E9F952783}|TeamWorkProject\\TeamWorkProject.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\objectsandclassesexercise\\teamworkproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A66D59-5E5F-4994-9EE6-403E9F952783}|TeamWorkProject\\TeamWorkProject.csproj|solutionrelative:teamworkproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D9D2B6-2896-4EB8-BCF5-CBCB2F888E2F}|students\\students.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\objectsandclassesexercise\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D9D2B6-2896-4EB8-BCF5-CBCB2F888E2F}|students\\students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0A28F7-04CC-4379-80FE-67B70B961C2C}|Article2\\Article2.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\objectsandclassesexercise\\article2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0A28F7-04CC-4379-80FE-67B70B961C2C}|Article2\\Article2.csproj|solutionrelative:article2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F4751-EC51-4A33-B292-A80A4CA46AEE}|Articles\\Articles.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\objectsandclassesexercise\\articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F4751-EC51-4A33-B292-A80A4CA46AEE}|Articles\\Articles.csproj|solutionrelative:articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612DB1F5-636C-4712-A829-4C068267C21E}|AdvertisementMessage\\AdvertisementMessage.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\objectsandclassesexercise\\advertisementmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612DB1F5-636C-4712-A829-4C068267C21E}|AdvertisementMessage\\AdvertisementMessage.csproj|solutionrelative:advertisementmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\TeamWorkProject\\Program.cs",
+              "RelativeDocumentMoniker": "TeamWorkProject\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\TeamWorkProject\\Program.cs",
+              "RelativeToolTip": "TeamWorkProject\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:32:49.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\students\\Program.cs",
+              "RelativeDocumentMoniker": "students\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\students\\Program.cs",
+              "RelativeToolTip": "students\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:42:29.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\Article2\\Program.cs",
+              "RelativeDocumentMoniker": "Article2\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\Article2\\Program.cs",
+              "RelativeToolTip": "Article2\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:28:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\Articles\\Program.cs",
+              "RelativeDocumentMoniker": "Articles\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\Articles\\Program.cs",
+              "RelativeToolTip": "Articles\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:43:43.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\AdvertisementMessage\\Program.cs",
+              "RelativeDocumentMoniker": "AdvertisementMessage\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\ObjectsAndClassesExercise\\AdvertisementMessage\\Program.cs",
+              "RelativeToolTip": "AdvertisementMessage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:25:17.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
