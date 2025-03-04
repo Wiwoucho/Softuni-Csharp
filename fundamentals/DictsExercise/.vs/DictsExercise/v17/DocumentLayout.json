@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0443D7EF-B75C-495B-942E-C0173C15B6B9}|SoftUniParking\\SoftUniParking.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\dictsexercise\\softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443D7EF-B75C-495B-942E-C0173C15B6B9}|SoftUniParking\\SoftUniParking.csproj|solutionrelative:softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADAA018-8389-44EB-B3E9-B8816BE189BE}|Orders\\Orders.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\dictsexercise\\orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADAA018-8389-44EB-B3E9-B8816BE189BE}|Orders\\Orders.csproj|solutionrelative:orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FCD96D-A03E-4B54-8D33-49E58A85D477}|CountChars\\CountChars.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\dictsexercise\\countchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FCD96D-A03E-4B54-8D33-49E58A85D477}|CountChars\\CountChars.csproj|solutionrelative:countchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9F20BC-C4A2-4C40-8756-23BAF24A3BAE}|MinerTask\\MinerTask.csproj|c:\\users\\wiwou\\desktop\\csharp_fundamentals\\dictsexercise\\minertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9F20BC-C4A2-4C40-8756-23BAF24A3BAE}|MinerTask\\MinerTask.csproj|solutionrelative:minertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\SoftUniParking\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUniParking\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\SoftUniParking\\Program.cs",
+              "RelativeToolTip": "SoftUniParking\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:46:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\Orders\\Program.cs",
+              "RelativeDocumentMoniker": "Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\Orders\\Program.cs",
+              "RelativeToolTip": "Orders\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:18:13.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\MinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "MinerTask\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\MinerTask\\Program.cs",
+              "RelativeToolTip": "MinerTask\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:11:25.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\CountChars\\Program.cs",
+              "RelativeDocumentMoniker": "CountChars\\Program.cs",
+              "ToolTip": "C:\\Users\\wiwou\\Desktop\\csharp_fundamentals\\DictsExercise\\CountChars\\Program.cs",
+              "RelativeToolTip": "CountChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:59:43.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
